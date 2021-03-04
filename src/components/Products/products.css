@@ -1,0 +1,13 @@
+.products{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-right: 10px;
+    padding: 10px 0px;
+}
+.cart-btn{
+    height: 30px;
+    width: 150px;
+    background-color: goldenrod;
+    border: 1px solid black;
+    border-radius: 5px;
+}
